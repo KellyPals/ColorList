@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+
+  <string name = "Andreas">Andreas</string>
+  
+  <string-array name="inimesed">
+
+    <item name="Kuuskaru" type="inimene">Andreas</item>
+
+  </string-array>
+  
+  
+</resources>
